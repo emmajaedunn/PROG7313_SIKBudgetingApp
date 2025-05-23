@@ -1,0 +1,49 @@
+com.example.sikbudgetingapp-drawerlayout-1.1.1-0 C:\Users\shiss\.gradle\caches\8.11.1\transforms\05b49770daabfb388948e1f7fc12d3af\transformed\drawerlayout-1.1.1\res
+com.example.sikbudgetingapp-navigation-runtime-release-1 C:\Users\shiss\.gradle\caches\8.11.1\transforms\05df04fc6d20e5159817144dfb4718d3\transformed\navigation-runtime-release\res
+com.example.sikbudgetingapp-window-1.0.0-2 C:\Users\shiss\.gradle\caches\8.11.1\transforms\098ff52a20e0715afe2828d70273191b\transformed\window-1.0.0\res
+com.example.sikbudgetingapp-recyclerview-1.1.0-3 C:\Users\shiss\.gradle\caches\8.11.1\transforms\0e35f11fd6cea553a90eacd029a77326\transformed\recyclerview-1.1.0\res
+com.example.sikbudgetingapp-lifecycle-viewmodel-release-4 C:\Users\shiss\.gradle\caches\8.11.1\transforms\120ae2bace763f624e4c91dd46cd3412\transformed\lifecycle-viewmodel-release\res
+com.example.sikbudgetingapp-lifecycle-runtime-release-5 C:\Users\shiss\.gradle\caches\8.11.1\transforms\15ee59d0d069de6ef1f606e1dae16f7d\transformed\lifecycle-runtime-release\res
+com.example.sikbudgetingapp-lifecycle-livedata-core-2.9.0-6 C:\Users\shiss\.gradle\caches\8.11.1\transforms\1d631e7af13e8be5776d4525f8821ecc\transformed\lifecycle-livedata-core-2.9.0\res
+com.example.sikbudgetingapp-transition-1.5.0-7 C:\Users\shiss\.gradle\caches\8.11.1\transforms\1e0cb7e4623e53715e0c1dc4438b8c1e\transformed\transition-1.5.0\res
+com.example.sikbudgetingapp-annotation-experimental-1.4.1-8 C:\Users\shiss\.gradle\caches\8.11.1\transforms\2b7f161c67a0afdbd0023e275e7aec88\transformed\annotation-experimental-1.4.1\res
+com.example.sikbudgetingapp-fragment-1.6.2-9 C:\Users\shiss\.gradle\caches\8.11.1\transforms\4881114df092d24f33e9ea5691535ab7\transformed\fragment-1.6.2\res
+com.example.sikbudgetingapp-activity-1.10.1-10 C:\Users\shiss\.gradle\caches\8.11.1\transforms\52fff023da8d68b6375205a831b34889\transformed\activity-1.10.1\res
+com.example.sikbudgetingapp-constraintlayout-2.2.1-11 C:\Users\shiss\.gradle\caches\8.11.1\transforms\5b1faab74a77e5199a4c669bd1ad452e\transformed\constraintlayout-2.2.1\res
+com.example.sikbudgetingapp-material-1.12.0-12 C:\Users\shiss\.gradle\caches\8.11.1\transforms\60b0c3a10c02e8826dca49bcc5f883bb\transformed\material-1.12.0\res
+com.example.sikbudgetingapp-navigation-fragment-2.9.0-13 C:\Users\shiss\.gradle\caches\8.11.1\transforms\65102a75b1288457260e58f7e78ead8b\transformed\navigation-fragment-2.9.0\res
+com.example.sikbudgetingapp-tracing-1.2.0-14 C:\Users\shiss\.gradle\caches\8.11.1\transforms\66b6baaf839093ba6fa0737d83c4e191\transformed\tracing-1.2.0\res
+com.example.sikbudgetingapp-navigation-fragment-ktx-2.9.0-15 C:\Users\shiss\.gradle\caches\8.11.1\transforms\685d434182d8f31677cf2849530dff4f\transformed\navigation-fragment-ktx-2.9.0\res
+com.example.sikbudgetingapp-lifecycle-viewmodel-ktx-2.9.0-16 C:\Users\shiss\.gradle\caches\8.11.1\transforms\6ca653b2d93c00613322aaba5b50ff1a\transformed\lifecycle-viewmodel-ktx-2.9.0\res
+com.example.sikbudgetingapp-savedstate-release-17 C:\Users\shiss\.gradle\caches\8.11.1\transforms\6ff2ad59fe68aeb9610d6d32fa96c57f\transformed\savedstate-release\res
+com.example.sikbudgetingapp-navigation-common-release-18 C:\Users\shiss\.gradle\caches\8.11.1\transforms\718e28f08b3b080c6acd8164afc8a94a\transformed\navigation-common-release\res
+com.example.sikbudgetingapp-navigation-ui-ktx-2.9.0-19 C:\Users\shiss\.gradle\caches\8.11.1\transforms\7dcfb049cd51501b1e27d680fecca95e\transformed\navigation-ui-ktx-2.9.0\res
+com.example.sikbudgetingapp-core-ktx-1.16.0-20 C:\Users\shiss\.gradle\caches\8.11.1\transforms\7f09521aca57bcc4ec44293a15de5915\transformed\core-ktx-1.16.0\res
+com.example.sikbudgetingapp-fragment-ktx-1.6.2-21 C:\Users\shiss\.gradle\caches\8.11.1\transforms\85911c3c1f986c19930a9c70ed4272fd\transformed\fragment-ktx-1.6.2\res
+com.example.sikbudgetingapp-navigation-ui-2.9.0-22 C:\Users\shiss\.gradle\caches\8.11.1\transforms\85f8e9f224d236e6754d35cb3030761e\transformed\navigation-ui-2.9.0\res
+com.example.sikbudgetingapp-slidingpanelayout-1.2.0-23 C:\Users\shiss\.gradle\caches\8.11.1\transforms\87f92f4407e9140cba0d2cb25e6247b5\transformed\slidingpanelayout-1.2.0\res
+com.example.sikbudgetingapp-coordinatorlayout-1.1.0-24 C:\Users\shiss\.gradle\caches\8.11.1\transforms\8f3a972ae625ee6b1ebe6e5965d45f70\transformed\coordinatorlayout-1.1.0\res
+com.example.sikbudgetingapp-emoji2-1.3.0-25 C:\Users\shiss\.gradle\caches\8.11.1\transforms\93de8c373a7e492979008f189ef77200\transformed\emoji2-1.3.0\res
+com.example.sikbudgetingapp-appcompat-1.7.0-26 C:\Users\shiss\.gradle\caches\8.11.1\transforms\962820c3b90460a9d98eeb97a0dfedb4\transformed\appcompat-1.7.0\res
+com.example.sikbudgetingapp-startup-runtime-1.1.1-27 C:\Users\shiss\.gradle\caches\8.11.1\transforms\9767c8f98000390a59fac7a7f986fb74\transformed\startup-runtime-1.1.1\res
+com.example.sikbudgetingapp-core-runtime-2.2.0-28 C:\Users\shiss\.gradle\caches\8.11.1\transforms\a74d2016422c751494da3960b03fb40b\transformed\core-runtime-2.2.0\res
+com.example.sikbudgetingapp-cardview-1.0.0-29 C:\Users\shiss\.gradle\caches\8.11.1\transforms\b2599954ad59503b38a5132009d7921d\transformed\cardview-1.0.0\res
+com.example.sikbudgetingapp-profileinstaller-1.4.0-30 C:\Users\shiss\.gradle\caches\8.11.1\transforms\b3385b29b4dcd46e7991320512d5e117\transformed\profileinstaller-1.4.0\res
+com.example.sikbudgetingapp-lifecycle-process-2.9.0-31 C:\Users\shiss\.gradle\caches\8.11.1\transforms\b43861de2e6a76ea93cab4194a5453e0\transformed\lifecycle-process-2.9.0\res
+com.example.sikbudgetingapp-appcompat-resources-1.7.0-32 C:\Users\shiss\.gradle\caches\8.11.1\transforms\b6dfc48c05fd8b4db1fe17ae868e82da\transformed\appcompat-resources-1.7.0\res
+com.example.sikbudgetingapp-lifecycle-livedata-2.9.0-33 C:\Users\shiss\.gradle\caches\8.11.1\transforms\b83b4c50dad23a3844621d2874550319\transformed\lifecycle-livedata-2.9.0\res
+com.example.sikbudgetingapp-viewpager2-1.0.0-34 C:\Users\shiss\.gradle\caches\8.11.1\transforms\c0ccda3791484d434ccd730769a5b80a\transformed\viewpager2-1.0.0\res
+com.example.sikbudgetingapp-emoji2-views-helper-1.3.0-35 C:\Users\shiss\.gradle\caches\8.11.1\transforms\c3d0b5a1e236fead4bbaf38070b4eecf\transformed\emoji2-views-helper-1.3.0\res
+com.example.sikbudgetingapp-core-viewtree-1.0.0-36 C:\Users\shiss\.gradle\caches\8.11.1\transforms\cc06218d51887e1c20c61784f82c8ffb\transformed\core-viewtree-1.0.0\res
+com.example.sikbudgetingapp-lifecycle-livedata-core-ktx-2.9.0-37 C:\Users\shiss\.gradle\caches\8.11.1\transforms\d91108b4507c50474374344bd12741d1\transformed\lifecycle-livedata-core-ktx-2.9.0\res
+com.example.sikbudgetingapp-lifecycle-viewmodel-savedstate-release-38 C:\Users\shiss\.gradle\caches\8.11.1\transforms\e8de9bbac390af8499826dd3bfa7908c\transformed\lifecycle-viewmodel-savedstate-release\res
+com.example.sikbudgetingapp-savedstate-ktx-1.3.0-39 C:\Users\shiss\.gradle\caches\8.11.1\transforms\ea77ea94bd838cdd0adebddcfb019221\transformed\savedstate-ktx-1.3.0\res
+com.example.sikbudgetingapp-activity-ktx-1.10.1-40 C:\Users\shiss\.gradle\caches\8.11.1\transforms\f1c55c7117c2be2828ed8982f9717df5\transformed\activity-ktx-1.10.1\res
+com.example.sikbudgetingapp-core-1.16.0-41 C:\Users\shiss\.gradle\caches\8.11.1\transforms\f2b534b3327d2673e95c61a8168a1343\transformed\core-1.16.0\res
+com.example.sikbudgetingapp-pngs-42 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\build\generated\res\pngs\debug
+com.example.sikbudgetingapp-resValues-43 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\build\generated\res\resValues\debug
+com.example.sikbudgetingapp-packageDebugResources-44 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.sikbudgetingapp-packageDebugResources-45 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.sikbudgetingapp-debug-46 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.sikbudgetingapp-debug-47 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\src\debug\res
+com.example.sikbudgetingapp-main-48 C:\Users\shiss\OneDrive\Desktop\kunta stuff\sik app\app\src\main\res
